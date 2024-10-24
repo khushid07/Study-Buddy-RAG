@@ -1,0 +1,6 @@
+1. open ollama on desktop
+2. create a venv
+3. run the uvicorn app
+4. run streamlit app in another terminal
+py -m streamlit run app.py  
+# if making any changes and saving, do Ctrl C on Powershell, close browser and then perform 6 and 7 again
