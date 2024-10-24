@@ -1,12 +1,12 @@
 # Study-Buddy-RAG
     .
-    ├── app.py                  #Streamlit app script with audio
-    ├── iesc111.pdf             #NCERT pdf
-    ├── rag.py                  #RAG logic
-    ├── output_audio.wav        #Temporary audio file (created and deleted dynamically)
-    ├── README.md  
-    ├── requirements.txt        #Python dependencies      
-    └── run.sh          #bash file to execute everything step by step in venv  
+    ├── app.py                                       #Streamlit app script
+    ├── MSBSHSE-Class-7-Mathematics-Textbook (5).pdf #Mathematics textbook of State curriculum
+    ├── rag.py                                       #RAG logic
+    ├── run.ps1                                      #powershell file to execute everything step by step in venv 
+    ├── README.md      
+    ├── requirements.txt                             #Python dependencies      
+    └── run.sh                                       #bash file to execute everything step by step in venv  
 
 
 # This is a RAG Chatbot
