@@ -1,3 +1,7 @@
+![Screenshot 2024-10-25 114529](https://github.com/user-attachments/assets/94ec6edd-b7f2-483d-b693-71fad0e2b4c4)
+
+![Screenshot 2024-10-25 115145](https://github.com/user-attachments/assets/610b4aed-588d-4750-8586-737243bccbaf)
+
 # Study-Buddy-RAG
     .
     ├── app.py                                       #Streamlit app script
