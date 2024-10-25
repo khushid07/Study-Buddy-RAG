@@ -10,11 +10,9 @@
 
 
 # This is a RAG Chatbot
-For simple queries that the bot has to answer, it is looking for that key and retreiving it from a dictionary in rag.py as self.simple_queries.
-More Simple queries/keys can be added in the dictionary.
-
-For other document related questions it will check the similarity score with a threshold of 0.5 and retreives the top 5 related chunks for context. If found in that document, it will give us the answer; if not, It will use the ollama model mistral's trained data to retrieve the context and response
-
+The Chatbot behaves like a teacher by being supportive and encouraging when asked questions or to explain a concept.
+It uses the pdf of the Mathematics Grade 7 State curriculum to retrieve answers and uses ollama mistral to frame the response.
+This can be a good substitute for a teacher when they are absent. It allows children to continue their learning without being stopped due to the absence of a teacher.
 
 ## Below are the steps to run:
 
